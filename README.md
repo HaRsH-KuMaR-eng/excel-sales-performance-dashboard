@@ -1,16 +1,15 @@
 # 📊 Excel Sales Performance Dashboard
 
-An interactive **Sales Performance Dashboard** built in **Microsoft Excel** using Pivot Tables, Pivot Charts, Slicers, and Dashboard Design techniques. This dashboard transforms raw transactional data into meaningful business insights, enabling organizations to monitor revenue, profit, expenses, customer transactions, and regional performance.
+An interactive **Sales Performance Dashboard** built in **Microsoft Excel** using Pivot Tables, Pivot Charts, Slicers, and Dashboard Design techniques. This dashboard transforms raw transactional data into meaningful business insights, enabling organisations to monitor revenue, profit, expenses, customer transactions, and regional performance.
 
 ---
 
 # 📷 Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard.png" width="100%">
+  <img src="project1.png" alt="Excel Sales Performance Dashboard" width="100%">
 </p>
 
-> **Note:** Replace `Dashboard.png` with your dashboard image filename if it is different.
 
 ---
 
@@ -22,10 +21,10 @@ The dashboard enables business users to:
 
 - Monitor Total Revenue
 - Track Total Profit
-- Analyze Business Expenses
+- Analyse Business Expenses
 - Compare Product Line Performance
 - Evaluate Regional Transactions
-- Analyze Department-wise Performance
+- Analyse Department-wise Performance
 - Study Payment Method Trends
 
 Interactive slicers allow users to filter the dashboard instantly for deeper analysis.
@@ -34,7 +33,7 @@ Interactive slicers allow users to filter the dashboard instantly for deeper ana
 
 # 🎯 Business Problem
 
-Organizations generate thousands of sales transactions every month. Without proper visualization, it becomes difficult to answer important business questions such as:
+Organisations generate thousands of sales transactions every month. Without proper visualisation, it becomes difficult to answer important business questions such as:
 
 - Which payment method generates the highest profit?
 - Which product line contributes the highest revenue?
@@ -43,7 +42,7 @@ Organizations generate thousands of sales transactions every month. Without prop
 - How are revenue, expenses, and profit related?
 - Which department has the highest operational cost?
 
-This dashboard provides a centralized solution for answering these questions using Excel.
+This dashboard provides a centralised solution for answering these questions using Excel.
 
 ---
 
@@ -84,7 +83,7 @@ The dataset contains approximately **2,000 sales transactions** with the followi
 
 ## 💰 Total Profit by Payment Method
 
-Displays profit generated through different payment methods.
+Displays the profit generated through different payment methods.
 
 ### Insights
 
@@ -132,7 +131,7 @@ Shows customer transaction distribution across regions.
 
 ## 🥧 Average Expense by Department
 
-Analyzes operational expenses across departments.
+Analyses operational expenses across departments.
 
 ### Insights
 
@@ -186,7 +185,6 @@ excel-sales-performance-dashboard/
 ├── Sales Dashboard.xlsx
 ├── Dashboard.png
 ├── README.md
-└── Images/
 ```
 
 ---
@@ -209,7 +207,7 @@ excel-sales-performance-dashboard/
 - Pivot Charts
 - Dashboard Design
 - Slicers
-- Data Visualization
+- Data Visualisation
 - KPI Reporting
 - Business Intelligence
 
@@ -233,7 +231,7 @@ Aspiring Data Analyst
 - SQL
 - Power BI
 - Python
-- Data Visualization
+- Data Visualisation
 - Business Intelligence
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+
